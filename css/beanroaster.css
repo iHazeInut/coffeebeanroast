@@ -53,8 +53,9 @@ footer {
 	text-align: center
 }
 
-#uploadImage{
-    float:left
+#commentButtons{
+    align:left;
+    width: 20%;
 }
 
 #dvColoursample{
@@ -99,4 +100,13 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+}
+
+#beancolour {
+    width: 80%;
+}
+
+#Comments {
+    text-align: center;
+    margin-left: auto;
 }
